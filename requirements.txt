@@ -2,3 +2,7 @@ django
 djangorestframework
 django-rest-swagger
 django_filters
+django-allauth
+python-weixin
+pypinyin
+djangorestframework-queryfields

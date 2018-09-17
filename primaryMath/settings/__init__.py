@@ -13,3 +13,5 @@ except Exception as e:
     print(e)
 
 print(DATABASES)
+print(BASE_DIR)
+print(PROJECT_DIR)
