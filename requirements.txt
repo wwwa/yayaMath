@@ -1,7 +1,7 @@
 django
 djangorestframework
 django-rest-swagger
-django_filters
+django-filters
 django-allauth
 python-weixin
 pypinyin

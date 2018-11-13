@@ -7,8 +7,10 @@ from wechat.models import WechatUserInfo
 from weixin import WXAPPAPI
 from weixin.lib.wxcrypt import WXBizDataCrypt
 
-APP_ID = 'wxd7c16b2190e782cd'
-APP_SECRET = 'fcce07e362a6a6bba72a088f95881d09'
+# APP_ID = 'wxd7c16b2190e782cd'
+APP_ID = 'wx99d68cd2072a86a0'
+# APP_SECRET = 'fcce07e362a6a6bba72a088f95881d09'
+APP_SECRET = '611965561426261e9114734c37a8b188'
 
 
 @csrf_exempt
