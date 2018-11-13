@@ -28,7 +28,8 @@ ALLOWED_HOSTS = ['192.168.0.7', '0.0.0.0', '127.0.0.1', 'localhost', 'api.lkmore
                  '*.likaiguo.me:9095',
                  'likaiguo.me',
                  'wx.lkmore.com',
-                 'weijl.club'
+                 'weijl.club',
+                 '140.143.96.112'
                  ]
 
 # Application definition
